@@ -1,0 +1,12 @@
+
+Tempo de execução: 8.57190 milisegundos, Pico de uso de memória: 84277.00 bytes
+
+Tempo de execução: 7.04150 milisegundos, Pico de uso de memória: 84456.00 bytes
+
+Tempo de execução: 7.04370 milisegundos, Pico de uso de memória: 135224.00 bytes
+
+Tempo de execução: 71.49860 milisegundos, Pico de uso de memória: 342264.00 bytes
+
+Tempo de execução: 15.70890 milisegundos , Pico de uso de memória: 342264.00 bytes
+
+Tempo de execução: 12.40490 milisegundos, Pico de uso de memória: 84496.00 bytes
