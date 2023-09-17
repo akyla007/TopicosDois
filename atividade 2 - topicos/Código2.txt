@@ -1,0 +1,16 @@
+ Tempo de execução: 0.00 milissegundos, Pico de uso de memória: 0.00165557861328125 MB
+
+ Tempo de execução: 0.00 milissegundos, Pico de uso de memória: 0.00366973876953125 MB
+
+ Tempo de execução: 4.02 milissegundos, Pico de uso de memória: 0.032215118408203125 MB
+
+ Tempo de execução: 25.75 milissegundos, Pico de uso de memória: 0.34329795837402344 MB
+
+ Tempo de execução: 274.20 milissegundos, Pico de uso de memória: 3.434743881225586 MB
+
+ Tempo de execução: 2690.50 milissegundos, Pico de uso de memória: 34.33527946472168 MB
+
+ Tempo de execução: 30997.23 milissegundos, Pico de uso de memória: 343.3276882171631 MB
+
+ Tempo de execução: 355737.31 milissegundos, Pico de uso de memória: 3433.2339878082275 MB
+
